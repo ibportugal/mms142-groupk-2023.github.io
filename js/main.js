@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Alex Smith.", "Designer.", "Developer.", "Freelancer.", "Photographer"],
+      strings: ["MMS142 Group K 2023", "Designer.", "Developer.", "Freelancer.", "Photographer"],
       typeSpeed: 100,
       loop: true,
     });
