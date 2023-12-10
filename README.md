@@ -1,5 +1,7 @@
-# mms142-groupk-2023.github.io (working title) 
-UPOU MMS142 2023 Group K Report
+# Everything Everywhere about Low-Code and No-Code (LCNC) Technologies
+A Group Report about Disruptive Technologies in partial fulfillment of requirements for Internet Technologies and Web Development (MMS 142) (2023-1T)
+
+**Authors:** Nirenzo, Amira Bea | Obien, Josephine | Palileo, Carlota | Papna, Mica Mierra | Payos, Roniel Chester | Perez, Esther Abigail | Pinpin, Kal-El ALbert Lance | Portugal, Iñigo 
 
 ## Introduction
   ### Background and Definition
