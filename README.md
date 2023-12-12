@@ -5,8 +5,14 @@ A Group Report about Disruptive Technologies in partial fulfillment of requireme
 
 ## Introduction
   ### Background and Definition
-  insert text here
-  
+  We are constantly bombarded with the latest advancements in technology, with each new one promising to solve this or that problem, or aiming to be the most powerful tool available in the market. Then there are technologies that aim to lower the barriers to creating functionalities and applications, simplifying the process such that people with little or no programming experience can create custom software applications. 
+
+  Such tools and platforms are called low-code and no-code technologies (abbreviated to LCNC in this presentation). These technologies have emerged in recent years and grown in popularity as users - whether you’re a complete beginner or seasoned developer - do not need to create from scratch. People of different skill levels and professional backgrounds can use LCNC to bring their ideas to life - whether it’s a student creating a mobile app for a project, an entrepreneur who wants to automate repetitive tasks, or an organization tinkering around during the initial stages of product development but trying to keep costs low.
+
+  In 2022, technological research and consulting firm Gartner forecasted the worldwide market for  LCNC to grow 20% in 2023. Gartner stated in a December 2022 press release that “a rise in business technologists and a growing number of enterprise-wide hyperautomation and composable business initiatives will be the key drivers accelerating the adoption of low-code technologies through 2026.”
+
+While it has been asked what kind of disruption LCNC would cause to tech development (developers, programmers), pundits have voiced out that developers would never be out of work and that there are plenty of jobs to go around. This is because while more people will be interacting with tech through the LCNC tools and platforms, accessibility is not the same as context or security or scalability. In a blog post, Stack Overflow CEO Prashanth Chandrasekar was quoted as saying that while “there are lots of benefits to low-code platforms…the need for context will undoubtedly remain consistent.”
+
   ### Functionality
   In the realm of programming, developers have to deeply comprehend the complexities of high language codes that a computer or the system can respond or make function to our desired vision to application softwares or websites. More than having experience to computer languages, such projects have to undergo deployment and testing procedures to certify its functionality. This evokes to the rationale that not every professional or individual has high proficient skills when it comes to coding. As modern technologies constantly proliferate, low-code and no-code technologies are included from the first rapid application development (RAD) tools, which later evolved by trying to eliminate much labor hours in producing applications or websites. 
  
