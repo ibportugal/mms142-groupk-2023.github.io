@@ -80,7 +80,7 @@ https://www.forbes.com/sites/forbestechcouncil/2023/03/07/an-introduction-to-no-
 
 *What is low-code/no-code application development?.* (n.d.). SAP. https://www.sap.com/sea/products/technology-platform/low-code/what-is-low-code-no-code.html
 
-Will low and no code tools ever truly disrupt tech development? - Stack Overflow. (2022, August 10). https://stackoverflow.blog/2022/08/10/will-low-and-no-code-tools-ever-truly-disrupt-tech-development/ 
+Dene, K. (2022, August 11). Will low and no code tools ever truly disrupt tech development? Stack Overflow. https://stackoverflow.blog/2022/08/10/will-low-and-no-code-tools-ever-truly-disrupt-tech-development/ 
 
 Pratt, M. (2021). *Low-code and no-code development platforms.* TechTarget. https://www.techtarget.com/searchsoftwarequality/definition/low-code-no-code-development-platform
 
