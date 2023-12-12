@@ -35,7 +35,7 @@ At this point, what makes low-code and no-code distinct to one another? Now, as 
   - **Full-stack:** Bubble covers all the essential components an app needs to be fully functional: user interface (front-end) design, back-end logic, and hosting environment (LowCode Agency, 2023).
 
   According to Airdev (n.d.), there are three basic steps in creating an app with Bubble. The first step is design, which commonly involves the drag and drop editor that can be used to arrange the app’s visual elements. The second step is creating the database and the last step is writing the workflows, which is essential for assigning reactions to certain actions done within the app. After finishing these steps, Bubble then translates the user’s editor setup into code that browsers can interpret, namely HTML and Javascript.
-With 3,300,000 apps built on Bubble, this no-code development platform has successfully helped many creators, founders, and business owners to build and deploy innovative apps without requiring proper programming expertise.
+  With 3,300,000 apps built on Bubble, this no-code development platform has successfully helped many creators, founders, and business owners to build and deploy innovative apps without requiring proper programming expertise.
 
 ## Disruptive Technologies
 
@@ -96,6 +96,12 @@ Pratt, M. (2021). *Low-code and no-code development platforms.* TechTarget. http
 *What is low-code/no-code application development?.* (n.d.). SAP. https://www.sap.com/sea/products/technology-platform/low-code/what-is-low-code-no-code.html
 
 Arkhipov, A. (2022, December 28). *Everything You Need to Know About Low-code VS No-code.*  TechMagic. https://www.techmagic.co/blog/low-code-vs-no-code/
+
+Bubble. (n.d.). _Bubble | Build Powerful Full-Stack Apps Without Code._ https://bubble.io/
+
+Airdev. (n.d.). _What is Bubble.io? A guide to building a Bubble app for beginners._ https://www.airdev.co/post/what-is-bubble-beginners-guide-building-bubble-app
+
+LowCode Agency (2023). _What is Bubble.io? Your Guide to the Top No-Code Platform._ https://www.lowcode.agency/blog/bubble-io
 
 Carroll, N., Móráin, L., Garrett, D., & Jamnadass, A. (2021). The Importance of Citizen Development for Digital Transformation. Cutter IT Journal, 34, 5-9.
 https://www.researchgate.net/publication/350734831_The_Importance_of_Citizen_Development_for_Digital_Transformation
