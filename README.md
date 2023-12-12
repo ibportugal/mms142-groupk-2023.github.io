@@ -27,7 +27,7 @@ At this point, what makes low-code and no-code distinct to one another? Now, as 
   ### Examples of Low Code and No Code Technologies
 
   #### Bubble (Bubble.io) 
-  Bubble is a no-code development platform that specializes in creating robust web and mobile apps (Bubble, n.d.). It is commonly marketed towards individuals who want to build software despite having limited or no programming expertise. Despite this focus, Bubble features a plugin ecosystem and a no-code API connector for those who want to extend its capabilities, making it a tool that even experienced programmers can still utilize. As a visual programming language, Bubble aims to help users in software development through the use of graphics and images instead of the traditional text-based coding.
+  **Bubble** is a no-code development platform that specializes in creating robust web and mobile apps (Bubble, n.d.). It is commonly marketed towards individuals who want to build software despite having limited or no programming expertise. Despite this focus, Bubble features a plugin ecosystem and a no-code API connector for those who want to extend its capabilities, making it a tool that even experienced programmers can still utilize. As a visual programming language, Bubble aims to help users in software development through the use of graphics and images instead of the traditional text-based coding.
 
   Aside from being extensible, Bubble also offers the following features:
   - **Customizable:** users can achieve any user interface and user experience (UI/UX) design by customizing the different tools available on the Bubble platform 
@@ -97,11 +97,11 @@ Pratt, M. (2021). *Low-code and no-code development platforms.* TechTarget. http
 
 Arkhipov, A. (2022, December 28). *Everything You Need to Know About Low-code VS No-code.*  TechMagic. https://www.techmagic.co/blog/low-code-vs-no-code/
 
-Bubble. (n.d.). _Bubble | Build Powerful Full-Stack Apps Without Code._ https://bubble.io/
+ _Bubble | Build Powerful Full-Stack Apps Without Code._ (n.d.). Bubble. https://bubble.io/
 
-Airdev. (n.d.). _What is Bubble.io? A guide to building a Bubble app for beginners._ https://www.airdev.co/post/what-is-bubble-beginners-guide-building-bubble-app
+_What is Bubble.io? A guide to building a Bubble app for beginners._ (n.d.) Airdev. https://www.airdev.co/post/what-is-bubble-beginners-guide-building-bubble-app
 
-LowCode Agency (2023). _What is Bubble.io? Your Guide to the Top No-Code Platform._ https://www.lowcode.agency/blog/bubble-io
+_What is Bubble.io? Your Guide to the Top No-Code Platform._ (2023). LowCode Agency. https://www.lowcode.agency/blog/bubble-io
 
 Carroll, N., Móráin, L., Garrett, D., & Jamnadass, A. (2021). The Importance of Citizen Development for Digital Transformation. Cutter IT Journal, 34, 5-9.
 https://www.researchgate.net/publication/350734831_The_Importance_of_Citizen_Development_for_Digital_Transformation
