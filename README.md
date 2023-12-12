@@ -82,6 +82,8 @@ Dene, K. (2022, August 11). Will low and no code tools ever truly disrupt tech d
 
 Pratt, M. (2021). *Low-code and no-code development platforms.* TechTarget. https://www.techtarget.com/searchsoftwarequality/definition/low-code-no-code-development-platform
 
+*What is low-code/no-code application development?.* (n.d.). SAP Build. https://www.sap.com/sea/products/technology-platform/low-code/what-is-low-code-no-code.html
+
 Arkhipov, A. (2022, December 28). *Everything You Need to Know About Low-code VS No-code.*  TechMagic. https://www.techmagic.co/blog/low-code-vs-no-code/
 
 Carroll, N., Móráin, L., Garrett, D., & Jamnadass, A. (2021). The Importance of Citizen Development for Digital Transformation. Cutter IT Journal, 34, 5-9.
