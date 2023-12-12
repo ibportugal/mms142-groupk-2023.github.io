@@ -23,6 +23,47 @@ At this point, what makes low-code and no-code distinct to one another? Now, as 
 ## Disruptive Technologies
   ### Define Disruptive Technology in general, and connect to Low-Code Tech
   ### What makes such current situations being disruptive
+
+Closing The Gap (Article Title)
+
+Low-code and No-code development platforms have been transformative for startups and businesses, primarily due to their ability to significantly reduce the costs associated with traditional software development. One discernable disruption in particular can be observed in an organizational setting via Enterprise Applications. The use of low-code and no-code platforms presents several advantages in the realm of software development. One major benefit is the diminished dependence on highly specialized developers, which is customary in traditional software development. This reliance often incurs substantial costs, particularly burdensome for startups grappling with limited financial resources. These platforms democratize application creation by offering intuitive interfaces and pre-built modules, empowering individuals with varying technical expertise, including non-developers, to craft applications. This not only significantly reduces the necessity for a team of elite developers but also curtails hiring expenses.
+
+Moreover, these platforms expedite the development process through an assortment of templates, pre-built components, and drag-and-drop functionalities. Consequently, the time invested in application development substantially decreases compared to conventional coding methods. This acceleration in the development cycle enables businesses to swiftly introduce their products or solutions to the market. This not only trims development costs but also positions startups to swiftly seize market opportunities.The implementation of low-code and no-code platforms translates to reduced maintenance and training costs. These platforms typically integrate built-in maintenance features and updates managed by the platform provider, eliminating the need for a dedicated maintenance team and thereby lessening ongoing operational expenses. Additionally, their user-friendly design minimizes the training necessary for individuals to commence application building, thus diminishing training expenses inherent in traditional coding languages and frameworks.
+
+Scalability and flexibility are additional perks offered by these platforms. Many of them provide scalable solutions, allowing businesses to expand without incurring exorbitant additional costs. As the business scales, these platforms adeptly accommodate heightened demands without necessitating a complete overhaul of the infrastructure or applications, thus mitigating scalability costs.Moreover, the utilization of low-code and no-code platforms optimizes resources and bolsters overall cost efficiency. By facilitating rapid prototyping and iterative development, these platforms enable early identification and rectification of issues in the developmental phase. This early intervention significantly reduces the costs associated with fixing errors or implementing changes later in the development cycle, thereby optimizing resources and enhancing cost efficiency (Carroll et al., 2021).
+
+	
+Pre-Low Code/No Code Adoption:
+
+1.)Development Costs - Traditional enterprise application development involves high costs due to the need for skilled developers, extensive coding, and longer development cycles. Companies had to invest significantly in hiring specialized talent.
+
+2.)Time Consumption - The development process was time-consuming, leading to extended project timelines. Businesses often face delays due to the complexities involved in coding and debugging.
+
+3.)Maintenance Expenses - Post-development, ongoing maintenance, and updates were substantial cost centers. As technologies evolved, keeping applications up-to-date incurred additional expenses.
+
+4.)Training and Support - Employees needed training to operate these applications, adding to the overall expenditure. Additionally, ongoing support was required for troubleshooting and bug fixing.	
+
+Post-Low Code/No Code Adoption:
+
+1.)Reduced Development Costs - Low code and no code platforms significantly cut down on development costs as they empower users with minimal coding skills to create applications. Companies can utilize existing in-house talent for application development, reducing the need for specialized hires.
+  
+2.)Accelerated Development -  These platforms streamline the development process, enabling rapid prototyping and quicker deployment of applications. This acceleration translates to cost savings by reducing man-hours and project duration.
+  
+3.)Lower Maintenance Expenses - Low code/no code solutions often come with built-in functionalities, simplifying maintenance and updates. This decreases ongoing costs related to upkeep and ensures compatibility with evolving technologies.
+  
+4.)Ease of Use and Support - These platforms often have intuitive interfaces, minimizing the need for extensive training. Additionally, many offer robust support, reducing expenses related to troubleshooting and technical support.
+
+
+
+Cost Comparison: 
+
+According to a 2023 Forms2 article, traditional development costs range from $40,000 to $100,000 or more. This accounts for the entire project cost as a whole including maintenance, update, training, etc... 
+
+Forms2, a low-code development platform, costs a fraction of these traditional development costs. It ranges from $18-23 per month/$216-300 per year (it operates on a subscription model which varies based on package).
+
+While initial costs might include subscription fees for these platforms, they are generally lower compared to the traditional model where substantial investments in development and hiring were mandatory. Training costs are negligble or minimal due to the nature of its design and purpose while excluding or limiting the requirement of traditional service providers/vendors or in-house developers. The long-term savings are significant as low code/no code platforms reduce dependency on specialized developers, decrease time-to-market, and lower ongoing maintenance expenses. For context, traditional developer costs in the United States range from $69,268 for a junior developer per year to $104,252 for a senior developer per year. This shift has the potential to redirect traditional developers away from primary enterprise development tasks and toward roles focused on updating platforms for vendors. However, it simultaneously creates new opportunities for these developers to concentrate on specialized or higher-value tasks such as architecting complex systems, customizing intricate functionalities, integrating diverse systems, and maintaining or updating the low-code platforms themselves.
+
+
   ### Explain the situation and the given topic given its disruptiveness
 
 ## Conclusion (summary, recommendations)
@@ -33,3 +74,15 @@ Pratt, M. (2021). *Low-code and no-code development platforms.* TechTarget. http
 *What is low-code/no-code application development?.* (n.d.). SAP Build. https://www.sap.com/sea/products/technology-platform/low-code/what-is-low-code-no-code.html
 
 Arkhipov, A. (2022, December 28). *Everything You Need to Know About Low-code VS No-code.*  TechMagic. https://www.techmagic.co/blog/low-code-vs-no-code/
+
+Carroll, N., Móráin, L., Garrett, D., & Jamnadass, A. (2021). The Importance of Citizen Development for Digital Transformation. Cutter IT Journal, 34, 5-9.
+https://www.researchgate.net/publication/350734831_The_Importance_of_Citizen_Development_for_Digital_Transformation
+
+Pajorska, Z. (2023). Low-code Gartner forecasts for 2023. Stratoflow. 
+https://stratoflow.com/low-code-gartner-forecasts/#predicts 
+
+Gartner forecasts worldwide low-code development technologies market to grow 20% in 2023.(2022). Gartner.
+https://www.gartner.com/en/newsroom/press-releases/2022-12-13-gartner-forecasts-worldwide-low-code-development-technologies-market-to-grow-20-percent-in-2023 
+
+Glynn, L. (2023). Comparing no code/low code vs traditional development costs in 2023 – save $99K+. forms2. https://forms2mobile.com/blog/comparing-low-code-no-code-vs-traditional-development-costs/
+  
