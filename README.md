@@ -26,6 +26,17 @@ At this point, what makes low-code and no-code distinct to one another? Now, as 
 
   ### Examples of Low Code and No Code Technologies
 
+  ####
+  **Bubble** is a no-code development platform that specializes in creating robust web and mobile apps (Bubble, n.d.). It is commonly marketed towards individuals who want to build software despite having limited or no programming expertise. Despite this focus, Bubble features a plugin ecosystem and a no-code API connector for those who want to extend its capabilities, making it a tool that even experienced programmers can still utilize. As a visual programming language, Bubble aims to help users in software development through the use of graphics and images instead of the traditional text-based coding.
+
+  Aside from being extensible, Bubble also offers the following features:
+  - **Customizable:** users can achieve any user interface and user experience (UI/UX) design by customizing the different tools available on the Bubble platform 
+  - **Deployment and Hosting:** Bubble manages the server setup, software installation, and monitoring
+  - **Full-stack:** Bubble covers all the essential components an app needs to be fully functional: user interface (front-end) design, back-end logic, and hosting environment (LowCode Agency, 2023).
+
+  According to Airdev (n.d.), there are three basic steps in creating an app with Bubble. The first step is design, which commonly involves the drag and drop editor that can be used to arrange the app’s visual elements. The second step is creating the database and the last step is writing the workflows, which is essential for assigning reactions to certain actions done within the app. After finishing these steps, Bubble then translates the user’s editor setup into code that browsers can interpret, namely HTML and Javascript.
+With 3,300,000 apps built on Bubble, this no-code development platform has successfully helped many creators, founders, and business owners to build and deploy innovative apps without requiring proper programming expertise.
+
 ## Disruptive Technologies
 
    ### Closing The Gap (Article Title)
