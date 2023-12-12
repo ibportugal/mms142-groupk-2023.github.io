@@ -26,8 +26,8 @@ At this point, what makes low-code and no-code distinct to one another? Now, as 
 
   ### Examples of Low Code and No Code Technologies
 
-  #### Bubble 
-  **Bubble** is a no-code development platform that specializes in creating robust web and mobile apps (Bubble, n.d.). It is commonly marketed towards individuals who want to build software despite having limited or no programming expertise. Despite this focus, Bubble features a plugin ecosystem and a no-code API connector for those who want to extend its capabilities, making it a tool that even experienced programmers can still utilize. As a visual programming language, Bubble aims to help users in software development through the use of graphics and images instead of the traditional text-based coding.
+  #### Bubble (Bubble.io) 
+  Bubble is a no-code development platform that specializes in creating robust web and mobile apps (Bubble, n.d.). It is commonly marketed towards individuals who want to build software despite having limited or no programming expertise. Despite this focus, Bubble features a plugin ecosystem and a no-code API connector for those who want to extend its capabilities, making it a tool that even experienced programmers can still utilize. As a visual programming language, Bubble aims to help users in software development through the use of graphics and images instead of the traditional text-based coding.
 
   Aside from being extensible, Bubble also offers the following features:
   - **Customizable:** users can achieve any user interface and user experience (UI/UX) design by customizing the different tools available on the Bubble platform 
