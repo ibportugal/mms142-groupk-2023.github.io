@@ -78,8 +78,6 @@ https://www.forbes.com/sites/forbestechcouncil/2023/03/07/an-introduction-to-no-
 
 *Gartner Forecasts Worldwide Low-Code Development Technologies Market t.* (2022, December 13). Gartner. https://www.gartner.com/en/newsroom/press-releases/2022-12-13-gartner-forecasts-worldwide-low-code-development-technologies-market-to-grow-20-percent-in-2023  
 
-*What is low-code/no-code application development?.* (n.d.). SAP. https://www.sap.com/sea/products/technology-platform/low-code/what-is-low-code-no-code.html
-
 Dene, K. (2022, August 11). Will low and no code tools ever truly disrupt tech development? Stack Overflow. https://stackoverflow.blog/2022/08/10/will-low-and-no-code-tools-ever-truly-disrupt-tech-development/ 
 
 Pratt, M. (2021). *Low-code and no-code development platforms.* TechTarget. https://www.techtarget.com/searchsoftwarequality/definition/low-code-no-code-development-platform
