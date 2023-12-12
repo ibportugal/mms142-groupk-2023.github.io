@@ -78,11 +78,11 @@ Arkhipov, A. (2022, December 28). *Everything You Need to Know About Low-code VS
 Carroll, N., Móráin, L., Garrett, D., & Jamnadass, A. (2021). The Importance of Citizen Development for Digital Transformation. Cutter IT Journal, 34, 5-9.
 https://www.researchgate.net/publication/350734831_The_Importance_of_Citizen_Development_for_Digital_Transformation
 
-Pajorska, Z. (2023). Low-code Gartner forecasts for 2023. Stratoflow. 
+Pajorska, Z. (2023). *Low-code Gartner forecasts for 2023.* Stratoflow. 
 https://stratoflow.com/low-code-gartner-forecasts/#predicts 
 
-Gartner forecasts worldwide low-code development technologies market to grow 20% in 2023.(2022). Gartner.
+*Gartner forecasts worldwide low-code development technologies market to grow 20% in 2023.* (2022). Gartner.
 https://www.gartner.com/en/newsroom/press-releases/2022-12-13-gartner-forecasts-worldwide-low-code-development-technologies-market-to-grow-20-percent-in-2023 
 
-Glynn, L. (2023). Comparing no code/low code vs traditional development costs in 2023 – save $99K+. forms2. https://forms2mobile.com/blog/comparing-low-code-no-code-vs-traditional-development-costs/
+Glynn, L. (2023). *Comparing no code/low code vs traditional development costs in 2023 – save $99K+.* forms2. https://forms2mobile.com/blog/comparing-low-code-no-code-vs-traditional-development-costs/
   
