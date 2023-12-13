@@ -649,5 +649,8 @@ nav ul li a {
 }
 }
 
+.p-heading, .p-separator {
+   text-align:justify;
+}
 
 .hidden { display:none; }
