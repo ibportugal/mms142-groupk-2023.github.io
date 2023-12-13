@@ -636,4 +636,9 @@ nav ul li a {
   font-size: 13px;
 }
 
+.about-img img {
+  margin-top:30%;
+}
+
+
 .hidden { display:none; }
