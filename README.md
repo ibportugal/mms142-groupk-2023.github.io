@@ -23,7 +23,7 @@ In 2024, SAP (n.d.) reported their latest Gartner survey that around 65% of appl
 At this point, what makes low-code and no-code distinct to one another? Now, as a slight overview since it will be covered to some portions, both platforms are definitely ideal for non-IT professionals who are in need of digital skills for personal and business-related matters. In fact, no-code (NC) programs are suitable enough for total beginners, where people can create applications by dominantly utilizing drag-and-drop features. Otherwise, low-code (LC) programs still allow individuals to develop their applications, yet this amplifies more automation towards the users on how they customize their projects by adding little coding commands for some significant enterprise requirements. Overall, it can be denoted that no-code is purely visual and less time-consuming, yet low-code is linked visual and coding with increased development time process as a differentiation to one another (Arkhipov, 2022).
 
   ### Benefits and Shortcomings
-Benefits
+	### Benefits
 Accessible and Convenient
 Since it doesn't require in-depth knowledge about coding, Low-code and No-code "limits the barrier to entry for software creation" (Northwest Executive Education). It offers a wider accessibility for contributors. Someone can create a mobile application without hiring a development team; an amateur developer can produce an enterprise-level application or code effectively. Low-code and no-code are accessible and convenient to use even to inexperienced and non-developers.
 
