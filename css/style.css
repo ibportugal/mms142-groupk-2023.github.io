@@ -645,7 +645,7 @@ nav ul li a {
 @media only screen and (max-width: 1079px) {
 .about-img {
   padding-top:10%;
-  padding-bottom:10%;
+  padding-bottom:20%;
 }
 .about-img img {
           width: 100%;
