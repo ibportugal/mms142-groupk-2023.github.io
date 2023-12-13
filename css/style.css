@@ -643,9 +643,9 @@ nav ul li a {
 }
 
 @media only screen and (max-width: 1079px) {
-.about-img img {
-  margin-top:70%;
-  margin-bottom:90%;
+.about-img {
+  padding-top:70%;
+  padding-bottom:90%;
 }
 }
 
