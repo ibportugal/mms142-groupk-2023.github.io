@@ -636,9 +636,10 @@ nav ul li a {
   font-size: 13px;
 }
 
+@media only screen and (min-width: 1080px) {
 .about-img img {
   margin-top:70%;
 }
-
+}
 
 .hidden { display:none; }
