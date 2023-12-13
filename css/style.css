@@ -642,4 +642,12 @@ nav ul li a {
 }
 }
 
+@media only screen and (max-width: 1079px) {
+.about-img img {
+  margin-top:40%;
+  margin-bottom:60%;
+}
+}
+
+
 .hidden { display:none; }
