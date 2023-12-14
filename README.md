@@ -49,7 +49,7 @@ The existence of pre-built templates and drag-and-drop interfaces in low-code an
 
 **Declining Design Innovation**
 
-The prebuilt templates and drag-and-drop component features of low-code and no-code software dwindle design creativity. Since there are prebuilt templates, variations in creative designs and elements are getting fewer. In fact, Abdallat (cited in Forbes) shared that the pervasiveness of the prebuilt templates, "has come to the point that you can tell what exact template was used just by looking at a website". It seems as if our creative limits are not getting pushed or challenged with low-code and no-code platforms
+The prebuilt templates and drag-and-drop component features of low-code and no-code software dwindle design creativity. Since there are prebuilt templates, variations in creative designs and elements are getting fewer. In fact, Abdallat (cited in Forbes, 2023) shared that the pervasiveness of the prebuilt templates, "has come to the point that you can tell what exact template was used just by looking at a website". It seems as if our creative limits are not getting pushed or challenged with low-code and no-code platforms
 
 **Limited Customization**
 
@@ -58,6 +58,11 @@ Another issue the low-code and no-code face because of its convenient features i
 **Possible Learning Curve**
 
 The inherent properties of low-code and no-code platforms, being accessible and convenient even to non-technical users, is precisely what lays the foundation for the potential learning curve. Northwest Executive Education (2023) believess that learning curve coould still be anticipated, despite the low-code nd no-code platform doesn't require in-depth nowledge about coding, as it could be linked to mastering the distinct features and workflows of the platform. 
+
+**Inadequate Security**
+
+Having pre-built features in low-code and no-code may inadvertently introduce errors and security threats. Forbes (2023) emphasized that these tools can make the users complacent, tempting them to overlook important safeguarding procedures. Additionally, individuals constructing apps through low-code and no-code might lack the necessary security expertise and practical knowledge to ensure their app's security. 
+
 
   ### Examples of Low Code and No Code Technologies
 
