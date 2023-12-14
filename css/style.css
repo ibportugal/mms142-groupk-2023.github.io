@@ -487,6 +487,7 @@ nav ul li a {
 
 .journal-block .journal-info .journal-txt {
   padding: 25px 0px;
+  padding-top:5px;
   position: relative;
 }
 
