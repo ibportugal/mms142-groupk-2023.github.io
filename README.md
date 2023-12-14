@@ -131,7 +131,7 @@ Evidently, there is a persistent rise of the Low-Code, No-Code (LCNC) approach t
 
 Surely, LCNC has its share of disadvantages - declining design innovation, limited customization, inadequate security, and vendor lock-in to name a few. Technology pervasiveness demand simpler ways of developing software applications which is why these disadvantages may be considered as minor and can be dealt with via some available workarounds.
 
-LCNC is undoubtedly a game-changer, what with a bright future ahead of us in the age of digital transformation.
+LCNC is undoubtedly a game-changer, what with the bright future it contributes in this day and age of digital transformation.
 
 ### References (please arrange it based on the order of appearance)
 
