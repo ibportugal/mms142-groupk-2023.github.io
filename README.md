@@ -11,7 +11,7 @@ A Group Report about Disruptive Technologies in partial fulfillment of requireme
 
   In 2022, technological research and consulting firm Gartner forecasted the worldwide market for  LCNC to grow 20% in 2023. Gartner stated in a December 2022 press release that “a rise in business technologists and a growing number of enterprise-wide hyperautomation and composable business initiatives will be the key drivers accelerating the adoption of low-code technologies through 2026.”
 
-While it has been asked what kind of disruption LCNC would cause to tech development (developers, programmers), pundits have voiced out that developers would never be out of work and that there are plenty of jobs to go around. This is because while more people will be interacting with tech through the LCNC tools and platforms, accessibility is not the same as context or security or scalability. In a blog post, Stack Overflow CEO Prashanth Chandrasekar was quoted as saying that while “there are lots of benefits to low-code platforms…the need for context will undoubtedly remain consistent.”
+While it has been asked what kind of disruption LCNC would cause to tech development (developers, programmers), pundits have voiced out that developers would never be out of work and that there are plenty of jobs to go around. This is because while more people will be interacting with tech through the LCNC tools and platforms, accessibility is not the same as context or security or scalability. In a blog post, Stack Overflow CEO Prashanth Chandrasekar was quoted as saying that while “_there are lots of benefits to low-code platforms…the need for context will undoubtedly remain consistent._”
 
   ### Functionality
   In the realm of programming, developers have to deeply comprehend the complexities of high language codes that a computer or the system can respond or make function to our desired vision to application softwares or websites. More than having experience to computer languages, such projects have to undergo deployment and testing procedures to certify its functionality. This evokes to the rationale that not every professional or individual has high proficient skills when it comes to coding. As modern technologies constantly proliferate, low-code and no-code technologies are included from the first rapid application development (RAD) tools, which later evolved by trying to eliminate much labor hours in producing applications or websites. 
@@ -27,11 +27,13 @@ At this point, what makes low-code and no-code distinct to one another? Now, as 
 
 **Accessible and Convenient**
 
-Since it doesn't require in-depth knowledge about coding, Low-code and No-code "limits the barrier to entry for software creation" (Northwest Executive Education, 2023). It offers a wider accessibility for contributors. Someone can create a mobile application without hiring a development team; an amateur developer can produce an enterprise-level application or code effectively. Low-code and no-code are accessible and convenient to use even to inexperienced and non-developers.
+Since it does not require in-depth knowledge about coding, Low-code and No-code "_limits the barrier to entry for software creation_" (Northwest Executive Education, 2023). It offers a wider accessibility for contributors. Someone can create a mobile application without hiring a development team; an amateur developer can produce an enterprise-level application or code effectively. Low-code and no-code are accessible and convenient to use even to inexperienced and non-developers.
 
 **Promotes Collaboration**
 
-Since low-code and no-code platforms are accessible to both experienced and non-experienced developers and technical and non-technical teams, it opens avenues for collaboration for both kinds of users. It allows team members with different skill sets to collaborate without needing to be coding-savvy. Appian described low-code and no-code platforms as a well-organized toolbox, helping an enterprise's development team to collaborate, "ensuring that changes are organized, tracked, and understood".
+Low-code and no-code platforms open avenues for collaboration for both kinds of users, given its accesibility to both experienced and non-experienced developers and technical and non-technical teams
+
+This allows team members with different skill sets to collaborate without needing to be coding-savvy. Appian described low-code and no-code platforms as a well-organized toolbox, helping an enterprise's development team to collaborate, "ensuring that changes are organized, tracked, and understood".
 
 **Cost-Saving**
 
@@ -39,7 +41,7 @@ Northwest Executive Education (2023) states that low-code and no-code platforms 
 
 **Faster Integration**
 
-Since Low-code and no-code provide pre-built templates and drag-and-drop reusable components, it requires less time in coding and, as mentioned earlier, in fixing errors. It also reduces the time needed to connect with databases. One of the blogs from Appian even exclaimed that Low-code and No-code platforms "dramatically accelerate development" and claimed that time is no longer a barrier to productivity. A study conducted by McKinsey & Company (2022) disclosed that low-code and no-code technologies have the potential to accelerate development time by 90%. After all, the features of low-code and no-code platforms such as pre-built templates, drag-and-drop components, query builders, etc are designed to speed up the development and launch of products. 
+Since Low-code and no-code provide pre-built templates and drag-and-drop reusable components, it requires less time in coding and, as mentioned earlier, in fixing errors. It also reduces the time needed to connect with databases. One of the blogs from Appian even exclaimed that Low-code and No-code platforms "_dramatically accelerate development_" and claimed that time is no longer a barrier to productivity. A study conducted by McKinsey & Company (2022) disclosed that low-code and no-code technologies have the potential to accelerate development time by 90%. After all, the features of low-code and no-code platforms such as pre-built templates, drag-and-drop components, query builders, etc. are designed to speed up the development and launch of products. 
 
 **Increased Productivity**
 
@@ -49,7 +51,7 @@ The existence of pre-built templates and drag-and-drop interfaces in low-code an
 
 **Declining Design Innovation**
 
-The prebuilt templates and drag-and-drop component features of low-code and no-code software dwindle design creativity. Since there are prebuilt templates, variations in creative designs and elements are getting fewer. In fact, Abdallat (cited in Forbes, 2023) shared that the pervasiveness of the prebuilt templates, "has come to the point that you can tell what exact template was used just by looking at a website". It seems as if our creative limits are not getting pushed or challenged with low-code and no-code platforms
+The prebuilt templates and drag-and-drop component features of low-code and no-code software dwindle design creativity. Since there are pre-built templates, variations in creative designs and elements are getting fewer. In fact, Abdallat (cited in Forbes, 2023) shared that the pervasiveness of the prebuilt templates, "_has come to the point that you can tell what exact template was used just by looking at a website_". It seems as if our creative limits are not getting pushed or challenged with low-code and no-code platforms.
 
 **Limited Customization**
 
@@ -57,7 +59,7 @@ Another issue the low-code and no-code face because of its convenient features i
 
 **Possible Learning Curve**
 
-The inherent properties of low-code and no-code platforms, being accessible and convenient even to non-technical users, is precisely what lays the foundation for the potential learning curve. Northwest Executive Education (2023) believess that learning curve coould still be anticipated, despite the low-code nd no-code platform doesn't require in-depth nowledge about coding, as it could be linked to mastering the distinct features and workflows of the platform. 
+The inherent properties of low-code and no-code platforms, being accessible and convenient even to non-technical users, is precisely what lays the foundation for the potential learning curve. Northwest Executive Education (2023) believess that learning curve coould still be anticipated, despite the low-code nd no-code platform does not require in-depth nowledge about coding, as it could be linked to mastering the distinct features and workflows of the platform. 
 
 **Inadequate Security**
 
@@ -65,7 +67,7 @@ Having pre-built features in low-code and no-code may inadvertently introduce er
 
 **Vendor Lock-in**
 
-Vendor lock-in refers to a situation where a customer becomes dependent on the vendor to the point of being stuck, as switching to another vendor is too risky and costly. In the context of using low-code and no-code platforms, users may experience vendor lock-in, relying heavily on a specific low-code or no-code platform, and switching to another platform might cause rewriting of the whole process and application. Forbes (2023) describes vendor lock-in as the "main downside" in using low-code and no-code platforms.
+Vendor lock-in refers to a situation where a customer becomes dependent on the vendor to the point of being stuck, as switching to another vendor is too risky and costly. In the context of using LCNC platforms, users may experience vendor lock-in, relying heavily on a specific low-code or no-code platform, and switching to another platform might cause rewriting of the whole process and application. Forbes (2023) describes vendor lock-in as the "main downside" in using low-code and no-code platforms.
 
   ### Examples of Low Code and No Code Technologies
 
