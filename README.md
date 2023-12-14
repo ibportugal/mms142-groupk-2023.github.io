@@ -63,6 +63,9 @@ The inherent properties of low-code and no-code platforms, being accessible and 
 
 Having pre-built features in low-code and no-code may inadvertently introduce errors and security threats. Forbes (2023) emphasized that these tools can make the users complacent, tempting them to overlook important safeguarding procedures. Additionally, individuals constructing apps through low-code and no-code might lack the necessary security expertise and practical knowledge to ensure their app's security. 
 
+**Vendor Lock-in**
+
+Vendor lock-in refers to a situation where a customer becomes dependent on the vendor to the point of being stuck, as switching to another vendor is too risky and costly. In the context of using low-code and no-code platforms, users may experience vendor lock-in, relying heavily on a specific low-code or no-code platform, and switching to another platform might cause rewriting of the whole process and application. Forbes (2023) describes vendor lock-in as the "main downside" in using low-code and no-code platforms.
 
   ### Examples of Low Code and No Code Technologies
 
