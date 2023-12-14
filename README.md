@@ -23,29 +23,29 @@ In 2024, SAP (n.d.) reported their latest Gartner survey that around 65% of appl
 At this point, what makes low-code and no-code distinct to one another? Now, as a slight overview since it will be covered to some portions, both platforms are definitely ideal for non-IT professionals who are in need of digital skills for personal and business-related matters. In fact, no-code (NC) programs are suitable enough for total beginners, where people can create applications by dominantly utilizing drag-and-drop features. Otherwise, low-code (LC) programs still allow individuals to develop their applications, yet this amplifies more automation towards the users on how they customize their projects by adding little coding commands for some significant enterprise requirements. Overall, it can be denoted that no-code is purely visual and less time-consuming, yet low-code is linked visual and coding with increased development time process as a differentiation to one another (Arkhipov, 2022).
 
   ### Benefits and Shortcomings
-Benefits
+   ####Benefits
 
-Accessible and Convenient
+**Accessible and Convenient**
 
 Since it doesn't require in-depth knowledge about coding, Low-code and No-code "limits the barrier to entry for software creation" (Northwest Executive Education). It offers a wider accessibility for contributors. Someone can create a mobile application without hiring a development team; an amateur developer can produce an enterprise-level application or code effectively. Low-code and no-code are accessible and convenient to use even to inexperienced and non-developers.
 
-Promotes Collaboration
+**Promotes Collaboration**
 
 Since low-code and no-code platforms are accessible to both experienced and non-experienced developers and technical and non-technical teams, it opens avenues for collaboration for both kinds of users. It allows team members with different skill sets to collaborate without needing to be coding-savvy. Appian described low-code and no-code platforms as a well-organized toolbox, helping an enterprise's development team to collaborate, "ensuring that changes are organized, tracked, and understood".
 
-Cost Saving
+**Cost-Saving**
 
 Northwest Executive Education states that low-code and no-code platforms offer reduced errors and less limited options for who can contribute. The same article further discussed that enterprises could save time and resources by minimizing error fixes and reducing the need for hiring skillful and experienced developers. Thus, adopting low-code and no-code solutions could significantly lower the overall cost in the long run. 
 
-Faster Integration
+**Faster Integration**
 
 Since Low-code and no-code provide pre-built templates and drag-and-drop reusable components, it requires less time in coding and, as mentioned earlier, in fixing errors. It also reduces the time needed to connect with databases. One of the blogs from Appian even exclaimed that Low-code and No-code platforms "dramatically accelerate development" and claimed that time is no longer a barrier to productivity. A study conducted by McKinsey & Company (2022) disclosed that low-code and no-code technologies have the potential to accelerate development time by 90%. After all, the features of low-code and no-code platforms such as pre-built templates, drag-and-drop components, query builders, etc are designed to speed up the development and launch of products. 
 
-Increased Productivity
+**Increased Productivity**
 
 The existence of pre-built templates and drag-and-drop interfaces in low-code and no-code platforms save users from repetitive and mundane tasks. This allows developers to focus on value-added and complex tasks, resulting in increased productivity and efficiency. 
 
-Shortcomings
+####Shortcomings
 
   ### Examples of Low Code and No Code Technologies
 
