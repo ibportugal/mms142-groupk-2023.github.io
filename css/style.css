@@ -657,4 +657,7 @@ nav ul li a {
    text-align:justify;
 }
 
+.courtesy {
+  font-size:9px;
+}
 .hidden { display:none; }
