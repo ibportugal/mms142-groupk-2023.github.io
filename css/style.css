@@ -486,8 +486,7 @@ nav ul li a {
 }
 
 .journal-block .journal-info .journal-txt {
-  padding: 25px 0px;
-  padding-top:5px;
+  padding: 20px 0px;
   position: relative;
 }
 
@@ -660,5 +659,6 @@ nav ul li a {
 
 .courtesy {
   font-size:9px;
+  padding-bottom:0;
 }
 .hidden { display:none; }
