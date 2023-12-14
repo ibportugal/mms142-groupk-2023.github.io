@@ -27,7 +27,7 @@ At this point, what makes low-code and no-code distinct to one another? Now, as 
 
 **Accessible and Convenient**
 
-Since it doesn't require in-depth knowledge about coding, Low-code and No-code "limits the barrier to entry for software creation" (Northwest Executive Education). It offers a wider accessibility for contributors. Someone can create a mobile application without hiring a development team; an amateur developer can produce an enterprise-level application or code effectively. Low-code and no-code are accessible and convenient to use even to inexperienced and non-developers.
+Since it doesn't require in-depth knowledge about coding, Low-code and No-code "limits the barrier to entry for software creation" (Northwest Executive Education, 2023). It offers a wider accessibility for contributors. Someone can create a mobile application without hiring a development team; an amateur developer can produce an enterprise-level application or code effectively. Low-code and no-code are accessible and convenient to use even to inexperienced and non-developers.
 
 **Promotes Collaboration**
 
@@ -35,7 +35,7 @@ Since low-code and no-code platforms are accessible to both experienced and non-
 
 **Cost-Saving**
 
-Northwest Executive Education states that low-code and no-code platforms offer reduced errors and less limited options for who can contribute. The same article further discussed that enterprises could save time and resources by minimizing error fixes and reducing the need for hiring skillful and experienced developers. Thus, adopting low-code and no-code solutions could significantly lower the overall cost in the long run. 
+Northwest Executive Education (2023) states that low-code and no-code platforms offer reduced errors and less limited options for who can contribute. The same article further discussed that enterprises could save time and resources by minimizing error fixes and reducing the need for hiring skillful and experienced developers. Thus, adopting low-code and no-code solutions could significantly lower the overall cost in the long run. 
 
 **Faster Integration**
 
@@ -47,13 +47,17 @@ The existence of pre-built templates and drag-and-drop interfaces in low-code an
 
 #### Shortcomings
 
-Declining Design Innovation
+**Declining Design Innovation**
 
 The prebuilt templates and drag-and-drop component features of low-code and no-code software dwindle design creativity. Since there are prebuilt templates, variations in creative designs and elements are getting fewer. In fact, Abdallat (cited in Forbes) shared that the pervasiveness of the prebuilt templates, "has come to the point that you can tell what exact template was used just by looking at a website". It seems as if our creative limits are not getting pushed or challenged with low-code and no-code platforms
 
-Limited Customization
+**Limited Customization**
 
 Another issue the low-code and no-code face because of its convenient features is the limitations when it comes to advanced customization. Though there is no longer a barrier to productivity, as claimed by Appian, Northwest Education states that low-code and no-code platforms put a barrier to implementing complex design requirements. The same article exemplified an enterprise that does not find low-code and no-code platforms flexible, as it might not be able to build a "highly specialized accounting software tailored to their industry-specific needs". Although Low-code and no-code are cost-saving and accessible, they might limit what users can create.
+
+**Possible Learning Curve**
+
+The inherent properties of low-code and no-code platforms, being accessible and convenient even to non-technical users, is precisely what lays the foundation for the potential learning curve. Northwest Executive Education (2023) believess that learning curve coould still be anticipated, despite the low-code nd no-code platform doesn't require in-depth nowledge about coding, as it could be linked to mastering the distinct features and workflows of the platform. 
 
   ### Examples of Low Code and No Code Technologies
 
