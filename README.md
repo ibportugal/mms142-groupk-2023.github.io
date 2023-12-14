@@ -47,6 +47,14 @@ The existence of pre-built templates and drag-and-drop interfaces in low-code an
 
 #### Shortcomings
 
+Declining Design Innovation
+
+The prebuilt templates and drag-and-drop component features of low-code and no-code software dwindle design creativity. Since there are prebuilt templates, variations in creative designs and elements are getting fewer. In fact, Abdallat (cited in Forbes) shared that the pervasiveness of the prebuilt templates, "has come to the point that you can tell what exact template was used just by looking at a website". It seems as if our creative limits are not getting pushed or challenged with low-code and no-code platforms
+
+Limited Customization
+
+Another issue the low-code and no-code face because of its convenient features is the limitations when it comes to advanced customization. Though there is no longer a barrier to productivity, as claimed by Appian, Northwest Education states that low-code and no-code platforms put a barrier to implementing complex design requirements. The same article exemplified an enterprise that does not find low-code and no-code platforms flexible, as it might not be able to build a "highly specialized accounting software tailored to their industry-specific needs". Although Low-code and no-code are cost-saving and accessible, they might limit what users can create.
+
   ### Examples of Low Code and No Code Technologies
 
   #### Bubble (Bubble.io) 
