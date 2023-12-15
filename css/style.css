@@ -11,7 +11,7 @@
 
 body {
   background: #ffffff;
-  color: #231709;
+  color: #898989;
   font-family: 'Poppins', helvetica;
   font-size: 15px;
   font-weight: 300;
@@ -86,7 +86,7 @@ p {
   margin: 25px 0;
   padding: 0;
   font-size: 15px;
-  color: #999999;
+  color: #231709;
   line-height: 28px;
 }
 
