@@ -85,6 +85,9 @@ Vendor lock-in refers to a situation where a customer becomes dependent on the v
   According to Airdev (n.d.), there are three basic steps in creating an app with Bubble. The first step is design, which commonly involves the drag and drop editor that can be used to arrange the app’s visual elements. The second step is creating the database and the last step is writing the workflows, which is essential for assigning reactions to certain actions done within the app. After finishing these steps, Bubble then translates the user’s editor setup into code that browsers can interpret, namely HTML and Javascript.
   With 3.3 million apps built on Bubble, this no-code development platform has successfully helped many creators, founders, and business owners to build and deploy innovative apps without requiring proper programming expertise.
 
+  #### Salesforce Lightning
+  Launched by Salesforce, a renowned provider of customer relationship management (CRM) software, **Salesforce Lightning** is a low-code platform for building applications focused on addressing business needs and CRM. It is meant to democratize the app-building process for business organizations by making it accessible, easier, and faster without sacrificing effectiveness and innovation (Lee, 2018). The platform has all the features that most low-code app-building platforms have - extensive access controls, code blocks that can be dragged and dropped, comprehensive design templates and hosting options, compatibility with multiple devices, as well as advanced customization and automation capabilities. But what makes Salesforce Lightning appealing to business enterprises is that unique features can be tailored and offered exclusively based on the business administrator and developer's needs.
+
 ## Disruptive Technologies
 
    ### Closing The Gap (Article Title)
