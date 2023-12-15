@@ -661,4 +661,9 @@ nav ul li a {
   font-size:9px;
   padding-bottom:0;
 }
+.intro-courtesy {
+  font-size:9px;
+  clear:both;
+}
+
 .hidden { display:none; }
