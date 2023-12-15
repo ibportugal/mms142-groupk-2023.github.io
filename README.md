@@ -78,11 +78,11 @@ Vendor lock-in refers to a situation where a customer becomes dependent on the v
   **Bubble** is a no-code development platform that specializes in creating robust web and mobile apps (Bubble, n.d.). It is commonly marketed towards individuals who want to build software despite having limited or no programming expertise. Despite this focus, Bubble features a plugin ecosystem and a no-code application programming interface (API) connector for those who want to extend its capabilities, making it a tool that even experienced programmers can still utilize. As a visual programming language, Bubble aims to help users in software development through the use of graphics and images instead of the traditional text-based coding.
 
   Aside from being extensible, Bubble also offers the following features:
-  - **Customizable:** users can achieve any user interface and user experience (UI/UX) design by customizing the different tools available on the Bubble platform 
+  - **Customizable:** Users can achieve any user interface and user experience (UI/UX) design by customizing the different tools available on the Bubble platform 
   - **Deployment and Hosting:** Bubble manages the server setup, software installation, and monitoring
   - **Full-stack:** Bubble covers all the essential components an app needs to be fully functional: user interface (front-end) design, back-end logic, and hosting environment (LowCode Agency, 2023).
 
-  According to Airdev (n.d.), there are three basic steps in creating an app with Bubble. The first step is design, which commonly involves the drag and drop editor that can be used to arrange the app’s visual elements. The second step is creating the database and the last step is writing the workflows, which is essential for assigning reactions to certain actions done within the app. After finishing these steps, Bubble then translates the user’s editor setup into code that browsers can interpret, namely HTML and Javascript.
+  According to Airdev (n.d.), there are three basic steps in creating an app with Bubble. The first step is design, which commonly involves the drag-and-drop editor that can be used to arrange the app’s visual elements. The second step is creating the database and the last step is writing the workflows, which is essential for assigning reactions to certain actions done within the app. After finishing these steps, Bubble then translates the user’s editor setup into code that browsers can interpret, namely HTML and Javascript.
   With 3.3 million apps built on Bubble, this no-code development platform has successfully helped many creators, founders, and business owners to build and deploy innovative apps without requiring proper programming expertise.
 
   #### Salesforce Lightning
@@ -95,7 +95,18 @@ These are some of the features embedded within the platform to make such claims 
   
 The versatility of Salesforce Lightning in enabling businesses ranges from self-service shopping portals, creating specialized inventory management systems that can be integrated with existing CRMs, a centralized platform for all relevant employees to handle complex management of Wi-Fi locks across multiple establishments for enhanced operations and customer satisfaction, sales and marketing resources, to employee web-based portals for HR needs. However, Salesforce Lightning's high-empowered features through low-code technology also have drawbacks such as the need for regular regression testing, potential customization conflicts, and making the most out of this platform may still be too intricate without a developer's knowledge. (Nguyen, n.d.)
 
-  
+  #### Mendix
+  **Mendix** is a low-code application development platform that was founded in the Netherlands by three entrepreneurs who wanted to find a quicker and more efficient way to create internal software applications (Battery Ventures, 2022). With a user-friendly visual interface that helps inexperienced users build and deploy custom software, Mendix stays true to its goal of assisting businesses by minimizing time and costs compared to traditional software development. 
+
+  Some of the features that make Mendix stand out from other low-code development platforms are their integration of AI, cloud services, and a well-managed support system (Mendix, 2023). 
+
+  - **Cloud** All Mendix apps are designed to work seamlessly in the cloud, making them easy to move and use wherever needed, simultaneously fostering flexibility in terms of deployment, maintenance, and compatibility across different cloud service providers.
+  - **Artificial Intelligence (AI):** The AI-enhanced Mendix platform includes virtual co-developer bots to help simplify processes, making it the first low-code application platform to support embedded machine learning models instead of relying on API-based integration.
+  - **Support:** The Mendix Community offers 24/7 support and resources through three sections. The first is the Mendix Forum, where users may ask questions, give answers, and find the resources they need to achieve their software development goals. The second section is the Mendix Marketplace, which provides solutions built by Mendix and Mendix partners that users can use to extend the capabilities of their software. Lastly, the Mendix Academy, wherein training courses and workshops related to low-code software development are available for those who are interested in learning more. 
+
+  These unique features make Mendix a versatile low-code development platform that guides organizations in creating powerful applications regardless of their programming experience. As stated by Siemens Software (n.d.), this grants users the power to speed up the whole process of software development while also promoting collaboration within their organization.
+
+ 
 ## Disruptive Technologies
 
    ### Closing The Gap (Article Title)
@@ -171,6 +182,12 @@ _What is Bubble.io? Your Guide to the Top No-Code Platform._ (2023). LowCode Age
 Lee, P. (2018, April 5). What You Need to Know About the Lightning Platform. Salesforce. https://www.salesforce.com/blog/about-the-lightning-platform-blog/
 
 Nguyen, A. (n.d.). A Guiding Light To Leverage Salesforce Low Code Platform. Synodus. https://synodus.com/blog/low-code/salesforce-low-code/
+
+Battery Ventures. (2022, October 26). _Mendix, low-code application development platform._ https://www.battery.com/blog/mendix-case-study
+
+Mendix. (2023, December 6). _Mendix Low-Code Platform Features - Low-Code App Development Tools | Mendix._ https://mendix.com/platform
+
+Siemens Software. (n.d.). _Mendix._ Siemens Digital Industries Software. https://www.plm.automation.siemens.com/global/en/products/mendix/
 
 Carroll, N., Móráin, L., Garrett, D., & Jamnadass, A. (2021). The Importance of Citizen Development for Digital Transformation. Cutter IT Journal, 34, 5-9.
 https://www.researchgate.net/publication/350734831_The_Importance_of_Citizen_Development_for_Digital_Transformation
