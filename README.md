@@ -91,7 +91,10 @@ Vendor lock-in refers to a situation where a customer becomes dependent on the v
 These are some of the features embedded within the platform to make such claims possible:
 - **Einstein Automate**: Enables businesses to create workflows, automate business processes through bots, and sift data to generate forecasts for maximum efficiency, just by clicking (no coding at all).
 - **Customer Identity Plus**: Provides simplified user identity management by adding an identity layer across different channels to eliminate the need for separate logins in each digital touchpoint which is incredibly useful if a company has an active large user base. This is also reinforced by a single command-line interface for various platforms with **CLI Unification** 
-- **DevOps Center**: A unified software development and operations hub for enhanced collaboration and faster development-release cycles. (Nguyen, n.d.)
+- **DevOps Center**: A unified software development and operations hub for enhanced collaboration and faster development-release cycles.
+  
+The versatility of Salesforce Lightning in enabling businesses ranges from self-service shopping portals, creating specialized inventory management systems that can be integrated with existing CRMs, a centralized platform for all relevant employees to handle complex management of Wi-Fi locks across multiple establishments for enhanced operations and customer satisfaction, sales and marketing resources, to employee web-based portals for HR needs. However, Salesforce Lightning's high-empowered features through low-code technology also have drawbacks such as the need for regular regression testing, potential customization conflicts, and making the most out of this platform may still be too intricate without a developer's knowledge. (Nguyen, n.d.)
+
   
 ## Disruptive Technologies
 
