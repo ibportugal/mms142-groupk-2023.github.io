@@ -128,9 +128,9 @@ While initial costs might include subscription fees for these platforms, they ar
 
 ## Conclusion (summary, recommendations)
 
-Evidently, there is a persistent rise of the Low-Code and No-Code (LCNC) approach to software development, and it can be attributed to the increased need to rapidly develop applications and digitise processes. In a world where competition is stiff, the desire to create an application or automate a task is heightened, and so one would resort to an approach that promotes accessibility and convenience, collaboration, cost savings, integration efficiency, increased productivity, and diminished dependence on highly specialized developers, among others. Those given characteristics are the beneficial qualities of LCNC platforms, which makes it a preferred approach to such endeavors. 
+Evidently, there is a persistent rise of the Low-Code and No-Code (LCNC) approach to software development, and it can be attributed to the increased need to rapidly develop applications and digitise processes. In a world where competition is stiff, the desire to create an application or automate a task is heightened, and so one would resort to an approach that promotes accessibility and convenience, collaboration, cost savings, integration efficiency, increased productivity, and diminished dependence on highly specialized developers, among others. These given characteristics are the beneficial qualities of LCNC platforms, which makes it a preferred approach to such endeavors. 
 
-Surely, LCNC technologies have its share of drawbacks - declining design innovation, limited customization, inadequate security, and vendor lock-in to name a few. Technology pervasiveness demand simpler ways of developing software applications which is why these disadvantages may be considered as minor and can be dealt with via some available workarounds.
+Surely, LCNC technologies have their share of drawbacks - declining design innovation, limited customization, inadequate security, and vendor lock-in to name a few. Technology pervasiveness demand simpler ways of developing software applications which is why these disadvantages may be considered as minor and can be dealt with via some available workarounds.
 
 Overall, LCNC is undoubtedly a game-changer, what with the bright future it contributes in this day and age of digital transformation.
 
