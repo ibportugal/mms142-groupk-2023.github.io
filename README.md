@@ -13,6 +13,7 @@ A Group Report about Disruptive Technologies in partial fulfillment of requireme
 
 While it has been asked what kind of disruption LCNC would cause to tech development (developers, programmers), pundits have voiced out that developers would never be out of work and that there are plenty of jobs to go around. This is because while more people will be interacting with tech through the LCNC tools and platforms, accessibility is not the same as context or security or scalability. In a blog post, Stack Overflow CEO Prashanth Chandrasekar was quoted as saying that while “_there are lots of benefits to low-code platforms…the need for context will undoubtedly remain consistent._”
 
+
   ### Functionality
   In the realm of programming, developers have to deeply comprehend the complexities of high language codes that a computer or the system can respond or make function to our desired vision to application softwares or websites. More than having experience to computer languages, such projects have to undergo deployment and testing procedures to certify its functionality. This evokes to the rationale that not every professional or individual has high proficient skills when it comes to coding. As modern technologies constantly proliferate, low-code and no-code technologies are included from the first rapid application development (RAD) tools, which later evolved by trying to eliminate much labor hours in producing applications or websites. 
  
@@ -72,7 +73,7 @@ Vendor lock-in refers to a situation where a customer becomes dependent on the v
   ### Examples of Low Code and No Code Technologies
 
   #### Bubble (Bubble.io) 
-  **Bubble** is a no-code development platform that specializes in creating robust web and mobile apps (Bubble, n.d.). It is commonly marketed towards individuals who want to build software despite having limited or no programming expertise. Despite this focus, Bubble features a plugin ecosystem and a no-code API connector for those who want to extend its capabilities, making it a tool that even experienced programmers can still utilize. As a visual programming language, Bubble aims to help users in software development through the use of graphics and images instead of the traditional text-based coding.
+  **Bubble** is a no-code development platform that specializes in creating robust web and mobile apps (Bubble, n.d.). It is commonly marketed towards individuals who want to build software despite having limited or no programming expertise. Despite this focus, Bubble features a plugin ecosystem and a no-code application programming interface (API) connector for those who want to extend its capabilities, making it a tool that even experienced programmers can still utilize. As a visual programming language, Bubble aims to help users in software development through the use of graphics and images instead of the traditional text-based coding.
 
   Aside from being extensible, Bubble also offers the following features:
   - **Customizable:** users can achieve any user interface and user experience (UI/UX) design by customizing the different tools available on the Bubble platform 
@@ -80,7 +81,7 @@ Vendor lock-in refers to a situation where a customer becomes dependent on the v
   - **Full-stack:** Bubble covers all the essential components an app needs to be fully functional: user interface (front-end) design, back-end logic, and hosting environment (LowCode Agency, 2023).
 
   According to Airdev (n.d.), there are three basic steps in creating an app with Bubble. The first step is design, which commonly involves the drag and drop editor that can be used to arrange the app’s visual elements. The second step is creating the database and the last step is writing the workflows, which is essential for assigning reactions to certain actions done within the app. After finishing these steps, Bubble then translates the user’s editor setup into code that browsers can interpret, namely HTML and Javascript.
-  With 3,300,000 apps built on Bubble, this no-code development platform has successfully helped many creators, founders, and business owners to build and deploy innovative apps without requiring proper programming expertise.
+  With 3.3 million apps built on Bubble, this no-code development platform has successfully helped many creators, founders, and business owners to build and deploy innovative apps without requiring proper programming expertise.
 
 ## Disruptive Technologies
 
@@ -127,11 +128,11 @@ While initial costs might include subscription fees for these platforms, they ar
 
 ## Conclusion (summary, recommendations)
 
-Evidently, there is a persistent rise of the Low-Code, No-Code (LCNC) approach to software development, and it can be attributed to the increased need to rapidly develop applications and digitise processes. In a world where competition is stiff, the desire to create an application or automate a task is heightened, and so one would resort to an approach that promotes accessibility and convenience, collaboration, cost savings, integration efficiency, increased productivity, and diminished dependence on highly specialized developers, among others. These are the very qualities of LCNC, which makes it a preferred approach to such endeavors. 
+Evidently, there is a persistent rise of the Low-Code and No-Code (LCNC) approach to software development, and it can be attributed to the increased need to rapidly develop applications and digitise processes. In a world where competition is stiff, the desire to create an application or automate a task is heightened, and so one would resort to an approach that promotes accessibility and convenience, collaboration, cost savings, integration efficiency, increased productivity, and diminished dependence on highly specialized developers, among others. Those given characteristics are the beneficial qualities of LCNC platforms, which makes it a preferred approach to such endeavors. 
 
-Surely, LCNC has its share of disadvantages - declining design innovation, limited customization, inadequate security, and vendor lock-in to name a few. Technology pervasiveness demand simpler ways of developing software applications which is why these disadvantages may be considered as minor and can be dealt with via some available workarounds.
+Surely, LCNC technologies have its share of drawbacks - declining design innovation, limited customization, inadequate security, and vendor lock-in to name a few. Technology pervasiveness demand simpler ways of developing software applications which is why these disadvantages may be considered as minor and can be dealt with via some available workarounds.
 
-LCNC is undoubtedly a game-changer, what with the bright future it contributes in this day and age of digital transformation.
+Overall, LCNC is undoubtedly a game-changer, what with the bright future it contributes in this day and age of digital transformation.
 
 ### References (please arrange it based on the order of appearance)
 
