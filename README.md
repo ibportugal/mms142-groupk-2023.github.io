@@ -86,8 +86,13 @@ Vendor lock-in refers to a situation where a customer becomes dependent on the v
   With 3.3 million apps built on Bubble, this no-code development platform has successfully helped many creators, founders, and business owners to build and deploy innovative apps without requiring proper programming expertise.
 
   #### Salesforce Lightning
-  Launched by Salesforce, a renowned provider of customer relationship management (CRM) software, **Salesforce Lightning** is a low-code platform for building applications focused on addressing business needs and CRM. It is meant to democratize the app-building process for business organizations by making it accessible, easier, and faster without sacrificing effectiveness and innovation (Lee, 2018). The platform has all the features that most low-code app-building platforms have - extensive access controls, code blocks that can be dragged and dropped, comprehensive design templates and hosting options, compatibility with multiple devices, as well as advanced customization and automation capabilities. But what makes Salesforce Lightning appealing to business enterprises is that unique features can be tailored and offered exclusively based on the business administrator and developer's needs.
+  Launched by Salesforce, a renowned provider of customer relationship management (CRM) software, **Salesforce Lightning** is a low-code platform for building applications focused on addressing business needs and CRM. It is meant to democratize the app-building process for business organizations by making it accessible, easier, and faster without sacrificing effectiveness and innovation (Lee, 2018). The platform has all the features that most low-code app-building platforms have - extensive access controls, code blocks that can be dragged and dropped, comprehensive design templates and hosting options, compatibility with multiple devices, as well as advanced customization and automation capabilities. But what makes Salesforce Lightning appealing to business enterprises is that unique features can be tailored and offered based on both the business administrator's and developer's needs. 
 
+These are some of the features embedded within the platform to make such claims possible:
+- **Einstein Automate**: Enables businesses to create workflows, automate business processes through bots, and sift data to generate forecasts for maximum efficiency, just by clicking (no coding at all).
+- **Customer Identity Plus**: Provides simplified user identity management by adding an identity layer across different channels to eliminate the need for separate logins in each digital touchpoint which is incredibly useful if a company has an active large user base. This is also reinforced by a single command-line interface for various platforms with **CLI Unification** 
+- **DevOps Center**: A unified software development and operations hub for enhanced collaboration and faster development-release cycles. (Nguyen, n.d.)
+  
 ## Disruptive Technologies
 
    ### Closing The Gap (Article Title)
@@ -159,6 +164,10 @@ Arkhipov, A. (2022, December 28). *Everything You Need to Know About Low-code VS
 _What is Bubble.io? A guide to building a Bubble app for beginners._ (n.d.) Airdev. https://www.airdev.co/post/what-is-bubble-beginners-guide-building-bubble-app
 
 _What is Bubble.io? Your Guide to the Top No-Code Platform._ (2023). LowCode Agency. https://www.lowcode.agency/blog/bubble-io
+
+Lee, P. (2018, April 5). What You Need to Know About the Lightning Platform. Salesforce. https://www.salesforce.com/blog/about-the-lightning-platform-blog/
+
+Nguyen, A. (n.d.). A Guiding Light To Leverage Salesforce Low Code Platform. Synodus. https://synodus.com/blog/low-code/salesforce-low-code/
 
 Carroll, N., Móráin, L., Garrett, D., & Jamnadass, A. (2021). The Importance of Citizen Development for Digital Transformation. Cutter IT Journal, 34, 5-9.
 https://www.researchgate.net/publication/350734831_The_Importance_of_Citizen_Development_for_Digital_Transformation
