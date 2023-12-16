@@ -14,7 +14,7 @@ A Group Report about Disruptive Technologies in partial fulfillment of requireme
 While it has been asked what kind of disruption LCNC would cause to tech development (developers, programmers), pundits have voiced out that developers would never be out of work and that there are plenty of jobs to go around. This is because while more people will be interacting with tech through the LCNC tools and platforms, accessibility is not the same as context or security or scalability. In a blog post, Stack Overflow CEO Prashanth Chandrasekar was quoted as saying that while “_there are lots of benefits to low-code platforms…the need for context will undoubtedly remain consistent._”
 
 
-  ### How do Low-Code and No-Code (LCNC) Technologies Perform Alongside their Differences?
+  ### How do Low-Code and No-Code (LCNC) Technologies Perform Alongside Their Differences?
   In the realm of programming, developers must deeply comprehend the complexities of high language codes that a computer or system can respond or can make function based on our desired vision in creating application softwares or websites. One's accumulated experience of the different computer languages does not suffice, because such projects have to undergo deployment and testing procedures to certify its functionality. This evokes to the rationale that not every individual has highly proficient skills when it comes to coding. As modern technologies constantly proliferate, low-code and no-code technologies are included in the first rapid application development (RAD) tools, which later evolved with the objective of trying to eliminate long labor hours in producing applications or websites. 
  
 Indeed, LCNC technologies alleviate the requirements of traditional coding to high programming languages. According to Pratt (2021), the process of utilizing LCNC technologies are similar into formulating a flowchart instead of entering a series of codes providing  specific functions or commands. In elaboration, LCNC modalities feature flexibility or scalability, pre-programmed templates, drag-and-drop, point-and-click models, cross-platform accessibility, and security. Both formats assist users to customize their projects that are ideal for experimentation, prototyping, and rapid development. 
@@ -25,8 +25,8 @@ At this point, one might ask what makes low-code and no-code distinct from one a
 
 Overall, it can be denoted that no-code (NC) is purely visual and less time-consuming, while low-code (LC) is linked visual and coding with increased development time process as a differentiation to one another (Arkhipov, 2022).
 
-  ### Benefits and Shortcomings
-   #### Benefits
+  ### Benefits and Shortcomings of LCNC Technologies
+   ### Benefits
 
 **Accessible and Convenient**
 
@@ -50,7 +50,7 @@ Since Low-code and no-code provide pre-built templates and drag-and-drop reusabl
 
 The existence of pre-built templates and drag-and-drop interfaces in low-code and no-code platforms save users from repetitive and mundane tasks. This allows developers to focus on value-added and complex tasks, resulting in increased productivity and efficiency. 
 
-#### Shortcomings
+### Shortcomings
 
 **Declining Design Innovation**
 
@@ -86,14 +86,14 @@ Vendor lock-in refers to a situation where a customer becomes dependent on the v
   With 3.3 million apps built on Bubble, this no-code development platform has successfully helped many creators, founders, and business owners to build and deploy innovative apps without requiring proper programming expertise.
 
   #### Salesforce Lightning
-  Launched by Salesforce, a renowned provider of customer relationship management (CRM) software, **Salesforce Lightning** is a low-code platform for building applications focused on addressing business needs and CRM. It is meant to democratize the app-building process for business organizations by making it accessible, easier, and faster without sacrificing effectiveness and innovation (Lee, 2018). This is partly because designing applications in this platform is based on metadata instead of traditional hardcoding. The platform has all the features that most low-code app-building platforms have - extensive access controls, code blocks that can be dragged and dropped, comprehensive design templates and hosting options, compatibility with multiple devices, as well as advanced customization and automation capabilities. But what makes Salesforce Lightning appealing to business enterprises is that unique features can be tailored and offered based on both the business administrator's and developer's needs. 
+  Launched by Salesforce, a renowned provider of customer relationship management (CRM) software, **Salesforce Lightning** is a low-code (LC) platform for building applications focused on addressing business needs and CRM. It is meant to democratize the app-building process for business organizations by making it accessible, easier, and faster without sacrificing effectiveness and innovation (Lee, 2018). This is partly because designing applications in this platform is based on metadata instead of traditional hardcoding. The platform has all the features that most low-code app-building platforms have - extensive access controls, code blocks that can be dragged and dropped, comprehensive design templates and hosting options, compatibility with multiple devices, as well as advanced customization and automation capabilities. But what makes Salesforce Lightning appealing to business enterprises is that unique features can be tailored and offered based on both the business administrator's and developer's needs. 
 
 These are some of the features embedded within the platform to make such claims possible:
 - **Einstein Automate**: Enables businesses to create workflows, automate business processes through bots, and sift data to generate forecasts for maximum efficiency, just by clicking (no coding at all).
 - **Customer Identity Plus**: Provides simplified user identity management by adding an identity layer across different channels to eliminate the need for separate logins in each digital touchpoint, which is incredibly useful if a company has an active large user base. This is also reinforced by a single command-line interface for various platforms with **CLI Unification**. 
 - **DevOps Center**: A unified software development and operations hub for enhanced collaboration and faster development-release cycles.
   
-The versatility of Salesforce Lightning in enabling businesses ranges from self-service shopping portals, creating specialized inventory management systems that can be integrated with existing CRMs, a centralized platform for all relevant employees to handle complex management of Wi-Fi locks across multiple establishments for enhanced operations and customer satisfaction, sales and marketing resources, to employee web-based portals for HR needs. However, Salesforce Lightning's high-empowered features through low-code technology also have drawbacks such as the need for regular regression testing, potential customization conflicts, and making the most out of this platform may still be too intricate without a developer's knowledge. (Nguyen, n.d.)
+The versatility of Salesforce Lightning in enabling businesses ranges from self-service shopping portals, creating specialized inventory management systems that can be integrated with existing CRMs, a centralized platform for all relevant employees to handle complex management of Wi-Fi locks across multiple establishments for enhanced operations and customer satisfaction, sales and marketing resources, to employee web-based portals for HR needs. However, Salesforce Lightning's high-empowered features through low-code technology also have drawbacks such as the need for regular regression testing, potential customization conflicts, and making the most out of this platform may still be too intricate without a developer's knowledge (Nguyen, n.d.).
 
   #### Mendix
   **Mendix** is a low-code application development platform that was founded in the Netherlands by three entrepreneurs who wanted to find a quicker and more efficient way to create internal software applications (Battery Ventures, 2022). With a user-friendly visual interface that helps inexperienced users build and deploy custom software, Mendix stays true to its goal of assisting businesses by minimizing time and costs compared to traditional software development. 
@@ -111,7 +111,7 @@ The versatility of Salesforce Lightning in enabling businesses ranges from self-
 
    ### Closing The Gap (Article Title)
 
-Low-code and No-code development platforms have been transformative for startups and businesses, primarily due to their ability to significantly reduce the costs associated with traditional software development. One discernable disruption in particular can be observed in an organizational setting via Enterprise Applications. The use of low-code and no-code platforms presents several advantages in the realm of software development. One major benefit is the diminished dependence on highly specialized developers, which is customary in traditional software development. This reliance often incurs substantial costs, particularly burdensome for startups grappling with limited financial resources. These platforms democratize application creation by offering intuitive interfaces and pre-built modules, empowering individuals with varying technical expertise, including non-developers, to craft applications. This not only significantly reduces the necessity for a team of elite developers but also curtails hiring expenses.
+Low-code and No-code (LCNC) development platforms have been transformative for startups and businesses, primarily due to their ability to significantly reduce the costs associated with traditional software development. One discernable disruption in particular can be observed in an organizational setting via Enterprise Applications. The use of low-code and no-code platforms presents several advantages in the realm of software development. One major benefit is the diminished dependence on highly specialized developers, which is customary in traditional software development. This reliance often incurs substantial costs, particularly burdensome for startups grappling with limited financial resources. These platforms democratize application creation by offering intuitive interfaces and pre-built modules, empowering individuals with varying technical expertise, including non-developers, to craft applications. This not only significantly reduces the necessity for a team of elite developers but also curtails hiring expenses.
 
 Moreover, these platforms expedite the development process through an assortment of templates, pre-built components, and drag-and-drop functionalities. Consequently, the time invested in application development substantially decreases compared to conventional coding methods. This acceleration in the development cycle enables businesses to swiftly introduce their products or solutions to the market. This not only trims development costs but also positions startups to swiftly seize market opportunities.The implementation of low-code and no-code platforms translates to reduced maintenance and training costs. These platforms typically integrate built-in maintenance features and updates managed by the platform provider, eliminating the need for a dedicated maintenance team and thereby lessening ongoing operational expenses. Additionally, their user-friendly design minimizes the training necessary for individuals to commence application building, thus diminishing training expenses inherent in traditional coding languages and frameworks.
 
@@ -193,11 +193,11 @@ Lee, P. (2018, April 5). What You Need to Know About the Lightning Platform. Sal
 
 Nguyen, A. (n.d.). A Guiding Light To Leverage Salesforce Low Code Platform. Synodus. https://synodus.com/blog/low-code/salesforce-low-code/
 
-Battery Ventures. (2022, October 26). _Mendix, low-code application development platform._ https://www.battery.com/blog/mendix-case-study
+_Mendix, low-code application development platform._ (2022, October 26). Battery Ventures. https://www.battery.com/blog/mendix-case-study
 
-Mendix. (2023, December 6). _Mendix Low-Code Platform Features - Low-Code App Development Tools | Mendix._ https://mendix.com/platform
+_Mendix Low-Code Platform Features - Low-Code App Development Tools | Mendix._ (2023, December 6). Mendix. https://mendix.com/platform
 
-Siemens Software. (n.d.). _Mendix._ Siemens Digital Industries Software. https://www.plm.automation.siemens.com/global/en/products/mendix/
+_Mendix._ (n.d.). Siemens Software. https://www.plm.automation.siemens.com/global/en/products/mendix/
 
 Carroll, N., Móráin, L., Garrett, D., & Jamnadass, A. (2021). The Importance of Citizen Development for Digital Transformation. Cutter IT Journal, 34, 5-9.
 https://www.researchgate.net/publication/350734831_The_Importance_of_Citizen_Development_for_Digital_Transformation
