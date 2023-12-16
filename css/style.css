@@ -681,12 +681,17 @@ p {
   width:35px;
   height:35px;
 }
+.dark-glass-containter {
+   margin-top:30%;
+   border-raidius:10px;
+}
 .dark-glass {
-  position:absolute;
+  position:relative;
   width:100%;
   height:100%;
   background-color:#000;
   opacity:.5;
+ 
 }
 
 
