@@ -150,6 +150,18 @@ While initial costs might include subscription fees for these platforms, they ar
 
   ### Explain the situation and the given topic given its disruptiveness
 
+### AI: A type of technology used highly in the current age. (Article Title)
+
+Have you ever thought of having a machine do your decisions for you in the way you would actually do? Over the rise of current events there have been talks of the uses of AI in businesses, education and in daily decision making use. According to an article by Nicole Laskowski, AI or artificial intelligence is “the simulation of human intelligence processes by machines, especially computer systems.” In short, it is an imitation of  human consciousness in terms of decision-making in  certain technologies. (Laskowski, 2023)
+
+AI works by storing and processing extremely large amounts of data and using systems to learn from the data it collects. Because AI  is based on  learning from processed data, it still cannot understand emotional thinking in today's world. In modern times, where AI  cannot properly process emotions, technology that utilizes AI in fields that require hospitality will not work, so further development is required. AI is harmless to use in the right hand. AI can actually help predict charts and trends based on previously provided information, helping businesses and the  medical sector to predict and prepare for future causes.
+AI can also be used to calculate things, since human error is less likely to occur if  the machine has the right conditions and numbers. 
+
+Examples of AI’s that can be used by the public are ChatGPT and Google Bard. These are AI’s that you can chat with and converse with, and with their knowledge linked with a large database they can help you in your needs. For example Google Bard is equipped with the information that google knows, so it can help you in your quest for knowledge or something else. With this in mind as data continues to be created by the people the database grows and the AI grows more intelligent.
+
+AI can be dangerous if used incorrectly or in  dangerous ways. If AI systems are designed for that purpose, they can be used to hack or infiltrate personal information. In summary, AI is now getting smarter because data is created every day and some AI systems handle more processing every day.This is a very powerful tool that can make a real and lasting difference in the world. Whether AI is good or bad depends on who uses it and how.
+
+
 ## Conclusion (summary, recommendations)
 
 Evidently, there is a persistent rise of the Low-Code and No-Code (LCNC) approach to software development, and it can be attributed to the increased need to rapidly develop applications and digitise processes. In a world where competition is stiff, the desire to create an application or automate a task is heightened, and so one would resort to an approach that promotes accessibility and convenience, collaboration, cost savings, integration efficiency, increased productivity, and diminished dependence on highly specialized developers, among others. These given characteristics are the beneficial qualities of LCNC platforms, which makes it a preferred approach to such endeavors. 
