@@ -684,6 +684,7 @@ p {
 .dark-glass-containter {
    margin-top:30%;
    border-raidius:10px;
+   padding:30px;
 }
 .dark-glass {
   position:relative;
@@ -691,6 +692,7 @@ p {
   height:50%;
   background-color:#000;
   opacity:.7;
+  margin-top:30%;
  
 }
 
