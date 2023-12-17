@@ -693,4 +693,7 @@ p {
   margin-top:20px;
 }
 
+.separator2 {
+  overflow-wrap:word-break;
+}
 .hidden { display:none; }
