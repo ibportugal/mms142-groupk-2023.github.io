@@ -186,6 +186,14 @@ Pratt, M. (2021). *Low-code and no-code development platforms.* TechTarget. http
 
 Arkhipov, A. (2022, December 28). *Everything You Need to Know About Low-code VS No-code.*  TechMagic. https://www.techmagic.co/blog/low-code-vs-no-code/
 
+Northwest Executive Education. (2023). 5 Pros and Cons of No-Code Development. https://northwest.education/insights/careers/5-pros-and-cons-of-no-code-development/
+
+Appian. (n.d.). Top 7 Low Code Benefits and Why they're important. https://appian.com/learn/topics/low-code/low-code-benefits.html
+
+Forbes. (2023). Low-Code and No-Code: 19 Potential Downsides to be aware of. https://www.forbes.com/sites/forbestechcouncil/2023/07/28/low-code-and-no-code-19-potential-downsides-to-be-aware-of/?sh=1c453ae5284c
+
+McKinsey & Company. (2022). McKinsey Technology Trends Outlook 2022: Next Generation Software Development. 
+
  _Bubble | Build Powerful Full-Stack Apps Without Code._ (n.d.). Bubble. https://bubble.io/
 
 _What is Bubble.io? A guide to building a Bubble app for beginners._ (n.d.) Airdev. https://www.airdev.co/post/what-is-bubble-beginners-guide-building-bubble-app
