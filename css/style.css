@@ -335,6 +335,7 @@ nav ul li a {
   background: #f7f7f7;
   position: relative;
   padding-bottom: 80px;
+  padding-top:40px;
 }
 
 .owl-item {
