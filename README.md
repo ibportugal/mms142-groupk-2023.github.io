@@ -30,21 +30,21 @@ Overall, it can be denoted that no-code (NC) is purely visual and less time-cons
 
 **Accessible and Convenient**
 
-Since it does not require in-depth knowledge about coding, Low-code and No-code "_limits the barrier to entry for software creation_" (Northwest Executive Education, 2023). It offers a wider accessibility for contributors. Someone can create a mobile application without hiring a development team; an amateur developer can produce an enterprise-level application or code effectively. LCNC platforms are accessible and convenient to use even to inexperienced and non-developers.
+Since it does not require in-depth knowledge about coding, LCNC "_limits the barrier to entry for software creation_" (Northwest Executive Education, 2023). It offers a wider accessibility for contributors. Someone can create a mobile application without hiring a development team; an amateur developer can produce an enterprise-level application or code effectively. LCNC platforms are accessible and convenient to use even to inexperienced and non-developers.
 
 **Promotes Collaboration**
 
 LCNC platforms open avenues for collaboration for both kinds of users, given its accesibility to both experienced and non-experienced developers and technical and non-technical teams.
 
-This allows team members with different skill sets to collaborate without needing to be coding-savvy. Appian described low-code and no-code platforms as a well-organized toolbox, helping an enterprise's development team to collaborate, "ensuring that changes are organized, tracked, and understood".
+This allows team members with different skill sets to collaborate without needing to be coding-savvy. Appian described low-code and no-code platforms as a well-organized toolbox, helping an enterprise's development team to collaborate "_ensuring that changes are organized, tracked, and understood_".
 
 **Cost-Saving**
 
-Northwest Executive Education (2023) states that low-code and no-code platforms offer reduced errors and less limited options for who can contribute. The same article further discussed that enterprises could save time and resources by minimizing error fixes and reducing the need for hiring skillful and experienced developers. Thus, adopting low-code and no-code solutions could significantly lower the overall cost in the long run. 
+Northwest Executive Education (2023) states that LCNC platforms offer reduced errors and less limited options for who can contribute. The same article further discussed that enterprises could save time and resources by minimizing error fixes and reducing the need for hiring skillful and experienced developers. Thus, adopting low-code and no-code solutions could significantly lower the overall cost in the long run. 
 
 **Faster Integration**
 
-Since Low-code and no-code provide pre-built templates and drag-and-drop reusable components, it requires less time in coding and, as mentioned earlier, in fixing errors. It also reduces the time needed to connect with databases. One of the blogs from Appian even exclaimed that Low-code and No-code platforms "_dramatically accelerate development_" and claimed that time is no longer a barrier to productivity. A study conducted by McKinsey & Company (2022) disclosed that low-code and no-code technologies have the potential to accelerate development time by 90%. After all, the features of low-code and no-code platforms such as pre-built templates, drag-and-drop components, query builders, etc. are designed to speed up the development and launch of products. 
+Since LCNC provide pre-built templates and drag-and-drop reusable components, it requires less time in coding and, as mentioned earlier, in fixing errors. It also reduces the time needed to connect with databases. One of the blogs from Appian even exclaimed that Low-code and No-code platforms "_dramatically accelerate development_" and claimed that time is no longer a barrier to productivity. A study conducted by McKinsey & Company (2022) disclosed that low-code and no-code technologies have the potential to accelerate development time by 90%. After all, the features of low-code and no-code platforms such as pre-built templates, drag-and-drop components, query builders, etc. are designed to speed up the development and launch of products. 
 
 **Increased Productivity**
 
@@ -58,7 +58,7 @@ The prebuilt templates and drag-and-drop component features of low-code and no-c
 
 **Limited Customization**
 
-Another issue the low-code and no-code face because of its convenient features is the limitations when it comes to advanced customization. Though there is no longer a barrier to productivity, as claimed by Appian, Northwest Education states that low-code and no-code platforms put a barrier to implementing complex design requirements. The same article exemplified an enterprise that does not find low-code and no-code platforms flexible, as it might not be able to build a "highly specialized accounting software tailored to their industry-specific needs". Although Low-code and no-code are cost-saving and accessible, they might limit what users can create.
+Though there is no longer a barrier to productivity, as claimed by Appian, Northwest Education states that LCNC platforms put a barrier to implementing complex design requirements. The same article exemplified an enterprise that does not find low-code and no-code platforms flexible, as it might not be able to build a "highly specialized accounting software tailored to their industry-specific needs". Although Low-code and no-code are cost-saving and accessible, they might limit what users can create.
 
 **Possible Learning Curve**
 
