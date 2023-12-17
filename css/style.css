@@ -694,6 +694,6 @@ p {
 }
 
 .separator2 {
-  overflow-wrap:word-break;
+  overflow-wrap:break-word;
 }
 .hidden { display:none; }
