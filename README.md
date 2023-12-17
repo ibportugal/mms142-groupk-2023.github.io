@@ -54,23 +54,23 @@ The existence of pre-built templates and drag-and-drop interfaces in low-code an
 
 **Declining Design Innovation**
 
-The prebuilt templates and drag-and-drop component features of low-code and no-code software dwindle design creativity. Since there are pre-built templates, variations in creative designs and elements are getting fewer. In fact, Abdallat (cited in Forbes, 2023) shared that the pervasiveness of the prebuilt templates, "_has come to the point that you can tell what exact template was used just by looking at a website_". It seems as if our creative limits are not getting pushed or challenged with low-code and no-code platforms.
+The prebuilt templates and drag-and-drop component features of LCNC software dwindle design creativity. Since there are pre-built templates, variations in creative designs and elements are getting fewer. In fact, Abdallat (cited in Forbes, 2023) shared that the pervasiveness of the prebuilt templates, "_has come to the point that you can tell what exact template was used just by looking at a website_". It seems as if our creative limits are not getting pushed or challenged with low-code and no-code platforms.
 
 **Limited Customization**
 
-Though there is no longer a barrier to productivity, as claimed by Appian, Northwest Education states that LCNC platforms put a barrier to implementing complex design requirements. The same article exemplified an enterprise that does not find low-code and no-code platforms flexible, as it might not be able to build a "highly specialized accounting software tailored to their industry-specific needs". Although Low-code and no-code are cost-saving and accessible, they might limit what users can create.
+Though there is no longer a barrier to productivity, as claimed by Appian (n.d.), Northwest Executive Education (2023) states that LCNC platforms put a barrier to implementing complex design requirements. The same article exemplified an enterprise that does not find low-code and no-code platforms flexible, as it might not be able to build a "_highly specialized accounting software tailored to their industry-specific needs_". Although Low-code and no-code are cost-saving and accessible, they might limit what users can create.
 
 **Possible Learning Curve**
 
-The inherent properties of low-code and no-code platforms, being accessible and convenient even to non-technical users, is precisely what lays the foundation for the potential learning curve. Northwest Executive Education (2023) believess that learning curve coould still be anticipated, despite the low-code nd no-code platform does not require in-depth nowledge about coding, as it could be linked to mastering the distinct features and workflows of the platform. 
+The inherent properties of LCNC platforms, being accessible and convenient even to non-technical users, is precisely what lays the foundation for the potential learning curve. Northwest Executive Education (2023) believess that learning curve coould still be anticipated, despite the low-code nd no-code platform does not require in-depth nowledge about coding, as it could be linked to mastering the distinct features and workflows of the platform. 
 
 **Inadequate Security**
 
-Having pre-built features in low-code and no-code may inadvertently introduce errors and security threats. Forbes (2023) emphasized that these tools can make the users complacent, tempting them to overlook important safeguarding procedures. Additionally, individuals constructing apps through low-code and no-code might lack the necessary security expertise and practical knowledge to ensure their app's security. 
+Having pre-built features in LCNC may inadvertently introduce errors and security threats. Forbes (2023) emphasized that these tools can make the users complacent, tempting them to overlook important safeguarding procedures. Additionally, individuals constructing apps through low-code and no-code might lack the necessary security expertise and practical knowledge to ensure their app's security. 
 
 **Vendor Lock-in**
 
-Vendor lock-in refers to a situation where a customer becomes dependent on the vendor to the point of being stuck, as switching to another vendor is too risky and costly. In the context of using LCNC platforms, users may experience vendor lock-in, relying heavily on a specific low-code or no-code platform, and switching to another platform might cause rewriting of the whole process and application. Forbes (2023) describes vendor lock-in as the "main downside" in using low-code and no-code platforms.
+Vendor lock-in refers to a situation where a customer becomes dependent on the vendor to the point of being stuck, as switching to another vendor is too risky and costly. In the context of using LCNC platforms, users may experience vendor lock-in, relying heavily on a specific LCNC platform, and switching to another platform might cause rewriting of the whole process and application. Forbes (2023) describes vendor lock-in as the "**main downside**" in using low-code and no-code platforms.
 
   ### Examples of Low Code and No Code Technologies
 
