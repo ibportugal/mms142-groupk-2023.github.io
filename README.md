@@ -149,17 +149,15 @@ While initial costs might include subscription fees for these platforms, they ar
 
  ### Complimentary Innovations: Redefining Development in the Digital Space via Low-Code/No-Code and AI Integration (Article Title)
 
-Have you ever thought of having a machine do your decisions for you in the way you would actually do? Over the rise of current events there have been talks of the uses of AI in businesses, education and in daily decision making use. According to an article by Nicole Laskowski, **artificial intelligence (AI)** is “_the simulation of human intelligence processes by machines, especially computer systems._” In short, it is an imitation of  human consciousness in terms of decision-making in  certain technologies. (Laskowski, 2023)
+Have you ever thought of having a machine do your decisions for you in the way you would actually do? Over the rise of current events there have been talks of the uses of AI in businesses, education and in daily decision making use. According to an article by  Laskowski (2023, **artificial intelligence (AI)** is “_the simulation of human intelligence processes by machines, especially computer systems._” In short, it is an imitation of  human consciousness in terms of decision-making in  certain technologies.
 
-AI works by storing and processing extremely large amounts of data and using systems to learn from the data it collects. Because AI is based on  learning from processed data, it still cannot understand emotional thinking in today's world. In modern times, where AI  cannot properly process emotions, technology that utilizes AI in fields that require hospitality will not work, so further development is required. AI is harmless to use in the right hand. AI can actually help predict charts and trends based on previously provided information, helping businesses and the  medical sector to predict and prepare for future causes.
-AI can also be used to calculate things, since human error is less likely to occur if  the machine has the right conditions and numbers. 
+AI works by storing and processing extremely large amounts of data and using systems to learn from the data it collects. Because AI is based on  learning from processed data, it still cannot understand emotional thinking in today's world. In modern times, where AI  cannot properly process emotions, technology that utilizes AI in fields that require hospitality will not work, so further development is required. AI is harmless to use in the right hand. AI can actually help predict charts and trends based on previously provided information, helping businesses and the  medical sector to predict and prepare for future causes. AI can also be used to calculate things, since human error is less likely to occur if  the machine has the right conditions and numbers. 
 
 Examples of AI’s that can be used by the public are **ChatGPT** and **Google Bard**. These are the products that you can chat with and converse with, and with their knowledge linked with a large database they can help you in your needs. For example Google Bard is equipped with the information that google knows, so it can help you in your quest for knowledge or something else. With this in mind as data continues to be created by the people the database grows and the AI grows more intelligent.
 
-While AI can potentially predict trends based on historical data, low-code tools allow users to build predictive models, foreseeing potential outcomes without delving into complex algorithms. Recent trends in this particular integration include the capability to produce powerful applications with built-in AI integration, generative content functionality, or even allow conversion of simple descriptive text/prompts into code. In tandem, both technologies in of itself has the capacity to produce new markets in the digital space. As new technology and platforms like these emerge, it is only natural for opportunities for developers to grow and eventually find themselves experts competing with nuanced insights on their specialized expertise. By simplifying the development process, these platforms enable the creation of solutions for niche or underserved markets. For example, applications catering to specific industries, regional needs, or unique user groups can be developed more efficiently, potentially tapping into previously unexplored markets (Haas, 2023)
+While AI can potentially predict trends based on historical data, low-code tools allow users to build predictive models, foreseeing potential outcomes without delving into complex algorithms. Recent trends in this particular integration include the capability to produce powerful applications with built-in AI integration, generative content functionality, or even allow conversion of simple descriptive text/prompts into code. In tandem, both technologies in of itself has the capacity to produce new markets in the digital space. As new technology and platforms like these emerge, it is only natural for opportunities for developers to grow and eventually find themselves experts competing with nuanced insights on their specialized expertise. By simplifying the development process, these platforms enable the creation of solutions for niche or underserved markets. For example, applications catering to specific industries, regional needs, or unique user groups can be developed more efficiently, potentially tapping into previously unexplored markets (Haas, 2023).
 
-As technology continues to advance, shaping our decisions and augmenting our capabilities, it's imperative to consider the potential of AI and LCNC along with broader spectrum of accessible tools that empower us and reshape our world. We are at a precipice - a shift from passive consumers to active creators. The integration of both of these disruptive technologies will pave the way for rapid innovation and development processes, surpassing speeds in software development and content creation like never before.
-
+As technology continues to advance, shaping our decisions and augmenting our capabilities, it is imperative to consider the potential of AI and LCNC along with broader spectrum of accessible tools that empower us and reshape our world. We are at a precipice - a shift from passive consumers to active creators. The integration of both of these disruptive technologies will pave the way for rapid innovation and development processes, surpassing speeds in software development and content creation like never before.
 
 
 ## Conclusion (summary, recommendations)
@@ -186,13 +184,13 @@ Pratt, M. (2021). *Low-code and no-code development platforms.* TechTarget. http
 
 Arkhipov, A. (2022, December 28). *Everything You Need to Know About Low-code VS No-code.*  TechMagic. https://www.techmagic.co/blog/low-code-vs-no-code/
 
-Northwest Executive Education. (2023). 5 Pros and Cons of No-Code Development. https://northwest.education/insights/careers/5-pros-and-cons-of-no-code-development/
+_5 Pros and Cons of No-Code Development._ (2023, September 21). Northwest Executive Education. https://northwest.education/insights/careers/5-pros-and-cons-of-no-code-development/
 
-Appian. (n.d.). Top 7 Low Code Benefits and Why they're important. https://appian.com/learn/topics/low-code/low-code-benefits.html
+_Top 7 Low Code Benefits and Why they're important._ (n.d.) Appian. https://appian.com/learn/topics/low-code/low-code-benefits.html
 
-Forbes. (2023). Low-Code and No-Code: 19 Potential Downsides to be aware of. https://www.forbes.com/sites/forbestechcouncil/2023/07/28/low-code-and-no-code-19-potential-downsides-to-be-aware-of/?sh=1c453ae5284c
+_Low-Code and No-Code: 19 Potential Downsides to be aware of._ (2023, July 28). Forbes. https://www.forbes.com/sites/forbestechcouncil/2023/07/28/low-code-and-no-code-19-potential-downsides-to-be-aware-of/?sh=1c453ae5284c
 
-McKinsey & Company. (2022). McKinsey Technology Trends Outlook 2022: Next Generation Software Development. 
+McKinsey & Company. (2022). _McKinsey Technology Trends Outlook 2022: Next Generation Software Development._ https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/the%20top%20trends%20in%20tech%202022/mckinsey-tech-trends-outlook-2022-next-gen-software.pdf
 
  _Bubble | Build Powerful Full-Stack Apps Without Code._ (n.d.). Bubble. https://bubble.io/
 
@@ -213,13 +211,11 @@ _Mendix._ (n.d.). Siemens Software. https://www.plm.automation.siemens.com/globa
 Carroll, N., Móráin, L., Garrett, D., & Jamnadass, A. (2021). The Importance of Citizen Development for Digital Transformation. Cutter IT Journal, 34, 5-9.
 https://www.researchgate.net/publication/350734831_The_Importance_of_Citizen_Development_for_Digital_Transformation
 
-Pajorska, Z. (2023). *Low-code Gartner forecasts for 2023.* Stratoflow. 
-https://stratoflow.com/low-code-gartner-forecasts/#predicts 
-
-*Gartner forecasts worldwide low-code development technologies market to grow 20% in 2023.* (2022). Gartner.
-https://www.gartner.com/en/newsroom/press-releases/2022-12-13-gartner-forecasts-worldwide-low-code-development-technologies-market-to-grow-20-percent-in-2023 
+Pajorska, Z. (2023). *Low-code Gartner forecasts for 2023.* Stratoflow. https://stratoflow.com/low-code-gartner-forecasts/#predicts 
 
 Glynn, L. (2023). *Comparing no code/low code vs traditional development costs in 2023 – save $99K+.* forms2. https://forms2mobile.com/blog/comparing-low-code-no-code-vs-traditional-development-costs/
 
-Haas, J., (2023). Why AI + No-Code is the Future. Bubble.io. https://bubble.io/blog/bubble-ai-no-code/
+Laskowski, N. (2023). _What is Artificial Intelligence and How Does AI Work? | Definition from TechTarget._ TechTarget. https://www.techtarget.com/searchenterpriseai/definition/AI-Artificial-Intelligence
+
+Haas, J., (2023, March 27). _Why AI + No-Code is the Future._ Bubble.io. https://bubble.io/blog/bubble-ai-no-code/
   
