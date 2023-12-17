@@ -581,7 +581,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #footer {
-  background: #f7f7f7;
+  background: #fff;
   padding-top: 50px;
   padding-bottom: 50px;
 }
@@ -695,8 +695,5 @@ p {
 
 .separator2 {
   overflow-wrap:break-word;
-  max-width:80%;
-  text-align:left;
-  min-width:0;
 }
 .hidden { display:none; }
