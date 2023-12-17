@@ -160,7 +160,7 @@ While AI can potentially predict trends based on historical data, low-code tools
 As technology continues to advance, shaping our decisions and augmenting our capabilities, it is imperative to consider the potential of AI and LCNC along with broader spectrum of accessible tools that empower us and reshape our world. We are at a precipice - a shift from passive consumers to active creators. The integration of both of these disruptive technologies will pave the way for rapid innovation and development processes, surpassing speeds in software development and content creation like never before.
 
 
-## Conclusion (summary, recommendations)
+## Conclusion
 
 Evidently, there is a persistent rise of the Low-Code and No-Code (LCNC) approach to software development, and it can be attributed to the increased need to rapidly develop applications and digitise processes. In a world where competition is stiff, the desire to create an application or automate a task is heightened, and so one would resort to an approach that promotes accessibility and convenience, collaboration, cost savings, integration efficiency, increased productivity, and diminished dependence on highly specialized developers, among others. These given characteristics are the beneficial qualities of LCNC platforms, which makes it a preferred approach to such endeavors. 
 
@@ -169,7 +169,7 @@ Surely, LCNC technologies have their share of drawbacks - declining design innov
 Overall, LCNC is undoubtedly a game-changer, what with the bright future it contributes in this day and age of digital transformation.
 
 
-### References (please arrange it based on the order of appearance)
+### References
 
 Boboyorova, C. (2023, March 7). *An Introduction to No-Code/Low-Code platforms: Seven things you should know.* Forbes. 
 https://www.forbes.com/sites/forbestechcouncil/2023/03/07/an-introduction-to-no-codelow-code-platforms-seven-things-you-should-know/?sh=59704c3f5fe2  
