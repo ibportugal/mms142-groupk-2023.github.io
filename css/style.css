@@ -685,6 +685,10 @@ p {
   width:35px;
   height:35px;
 }
+.black {
+  color:#000000;
+}
+
 
 .header-content h1,.header-content h6, .header-content p  {
   text-shadow:2px 2px 4px #000;
