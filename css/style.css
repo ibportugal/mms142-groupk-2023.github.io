@@ -700,4 +700,9 @@ p {
 .separator2 {
   overflow-wrap:break-word;
 }
+
+.homepage-footer {
+  background-color:#fff;
+}
+
 .hidden { display:none; }
